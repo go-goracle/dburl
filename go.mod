@@ -1,1 +1,1 @@
-module github.com/xo/dburl
+module github.com/go-goracle/dburl
